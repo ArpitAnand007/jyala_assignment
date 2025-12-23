@@ -62,9 +62,10 @@ class D(C):
         self._displayRoll()
 
 # creating objects of the derived class    
-obj = D("Kashish", 5 , "CSE")
+obj = D("Arpit", 5 , "CSE")
 # calling public member functions of the class  
 obj.dsiplayName()
 obj.access_displayRoll()
 
 obj.access__displayBranch()      
+
