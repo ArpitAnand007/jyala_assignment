@@ -11,8 +11,8 @@ The solutions are organized by language for easy review.
 ## Repository Structure
 
 main/
-├── task1.py
-├── task2.py
-└── task3.py
-|___readme.md
-└── sql_assignment.sql
+|-----task1.py
+|-----task2.py
+|-----task3.py
+|-----readme.md
+|-----sql_assignment.sql      -----it is written according to my sql language
