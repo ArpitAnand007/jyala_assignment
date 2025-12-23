@@ -4,7 +4,7 @@ from unicodedata import name
 class A:
     # default constructor
     def __init__(self):
-     self.name = "Kashish"
+     self.name = "Arpit"
      # a method for printing data members
     def print_A(self):
         print(self.name)
@@ -66,4 +66,5 @@ obj = D("Kashish", 5 , "CSE")
 # calling public member functions of the class  
 obj.dsiplayName()
 obj.access_displayRoll()
+
 obj.access__displayBranch()      
