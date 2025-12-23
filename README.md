@@ -16,3 +16,13 @@ main/
 |-----task3.py
 |-----readme.md
 |-----sql_assignment.sql      -----it is written according to my sql language
+
+---
+
+## Python Tasks
+- Each Python file contains the solution for an individual task.
+- Files are named sequentially for clarity.
+- Code is written using standard Python syntax and can be run independently.
+
+python task1.py
+
