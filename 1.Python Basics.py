@@ -13,7 +13,7 @@
 
 int = 10
 boolean = True
-char = "Ankit"# python only has string data type 
+char = "Arpit"# python only has string data type 
 float = 4.0
 double  = 4.0958584 # python 
 print("\n the type is: ",type(int),"\nthe type is",type(boolean),"\nthe type is",type(char),"\nthe type is",type(float),"\nthe type is",type(double))
@@ -37,3 +37,4 @@ print("\n the type is: ",type(int),"\nthe type is",type(boolean),"\nthe type is"
 
 # outer()
 # print("global scope",x,y)#global scope
+
